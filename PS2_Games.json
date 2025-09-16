@@ -1,0 +1,244 @@
+{
+  "jogos_ps2": [
+    {
+      "titulo": "Grand Theft Auto: San Andreas",
+      "ano": 2004,
+      "genero": "Ação-Aventura, Mundo Aberto",
+      "faixa_etaria": "18+",
+      "desenvolvedora": "Rockstar North",
+      "vendas_aproximadas_milhoes": 27.5
+    },
+    {
+      "titulo": "Gran Turismo 4",
+      "ano": 2004,
+      "genero": "Corrida, Simulador",
+      "faixa_etaria": "Livre",
+      "desenvolvedora": "Polyphony Digital",
+      "vendas_aproximadas_milhoes": 11.7
+    },
+    {
+      "titulo": "Grand Theft Auto: Vice City",
+      "ano": 2002,
+      "genero": "Ação-Aventura, Mundo Aberto",
+      "faixa_etaria": "18+",
+      "desenvolvedora": "Rockstar North",
+      "vendas_aproximadas_milhoes": 17.5
+    },
+    {
+      "titulo": "Metal Gear Solid 3: Snake Eater",
+      "ano": 2004,
+      "genero": "Ação-Aventura, Stealth",
+      "faixa_etaria": "16+",
+      "desenvolvedora": "Konami",
+      "vendas_aproximadas_milhoes": 6.0
+    },
+    {
+      "titulo": "Final Fantasy X",
+      "ano": 2001,
+      "genero": "RPG",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Square",
+      "vendas_aproximadas_milhoes": 8.5
+    },
+    {
+      "titulo": "God of War",
+      "ano": 2005,
+      "genero": "Ação, Hack and Slash",
+      "faixa_etaria": "18+",
+      "desenvolvedora": "SCE Santa Monica Studio",
+      "vendas_aproximadas_milhoes": 4.6
+    },
+    {
+      "titulo": "God of War II",
+      "ano": 2007,
+      "genero": "Ação, Hack and Slash",
+      "faixa_etaria": "18+",
+      "desenvolvedora": "SCE Santa Monica Studio",
+      "vendas_aproximadas_milhoes": 4.2
+    },
+    {
+      "titulo": "Shadow of the Colossus",
+      "ano": 2005,
+      "genero": "Ação-Aventura",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Team Ico",
+      "vendas_aproximadas_milhoes": 2.7
+    },
+    {
+      "titulo": "Resident Evil 4",
+      "ano": 2005,
+      "genero": "Survival Horror, Tiro",
+      "faixa_etaria": "18+",
+      "desenvolvedora": "Capcom",
+      "vendas_aproximadas_milhoes": 6.0
+    },
+    {
+      "titulo": "Kingdom Hearts II",
+      "ano": 2005,
+      "genero": "RPG de Ação",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Square Enix",
+      "vendas_aproximadas_milhoes": 4.0
+    },
+    {
+      "titulo": "Tekken 5",
+      "ano": 2004,
+      "genero": "Luta",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Namco",
+      "vendas_aproximadas_milhoes": 6.0
+    },
+    {
+      "titulo": "Pro Evolution Soccer 6",
+      "ano": 2006,
+      "genero": "Esportes (Futebol)",
+      "faixa_etaria": "Livre",
+      "desenvolvedora": "Konami",
+      "vendas_aproximadas_milhoes": 7.2
+    },
+    {
+      "titulo": "Devil May Cry 3: Dante's Awakening",
+      "ano": 2005,
+      "genero": "Ação, Hack and Slash",
+      "faixa_etaria": "16+",
+      "desenvolvedora": "Capcom",
+      "vendas_aproximadas_milhoes": 2.3
+    },
+    {
+      "titulo": "Ratchet & Clank: Up Your Arsenal",
+      "ano": 2004,
+      "genero": "Plataforma, Tiro",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Insomniac Games",
+      "vendas_aproximadas_milhoes": 3.5
+    },
+    {
+      "titulo": "Silent Hill 2",
+      "ano": 2001,
+      "genero": "Survival Horror, Psicológico",
+      "faixa_etaria": "18+",
+      "desenvolvedora": "Team Silent",
+      "vendas_aproximadas_milhoes": 3.0
+    },
+    {
+      "titulo": "Guitar Hero II",
+      "ano": 2006,
+      "genero": "Música, Ritmo",
+      "faixa_etaria": "Livre",
+      "desenvolvedora": "Harmonix",
+      "vendas_aproximadas_milhoes": 5.3
+    },
+    {
+      "titulo": "Burnout 3: Takedown",
+      "ano": 2004,
+      "genero": "Corrida, Arcade",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Criterion Games",
+      "vendas_aproximadas_milhoes": 5.0
+    },
+    {
+      "titulo": "Tony Hawk's Pro Skater 3",
+      "ano": 2001,
+      "genero": "Esportes (Skate)",
+      "faixa_etaria": "Livre",
+      "desenvolvedora": "Neversoft",
+      "vendas_aproximadas_milhoes": 7.0
+    },
+    {
+      "titulo": "Jak II",
+      "ano": 2003,
+      "genero": "Ação-Aventura, Plataforma",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Naughty Dog",
+      "vendas_aproximadas_milhoes": 3.9
+    },
+    {
+      "titulo": "Sly 2: Band of Thieves",
+      "ano": 2004,
+      "genero": "Plataforma, Stealth",
+      "faixa_etaria": "Livre",
+      "desenvolvedora": "Sucker Punch Productions",
+      "vendas_aproximadas_milhoes": 3.5
+    },
+    {
+      "titulo": "Ico",
+      "ano": 2001,
+      "genero": "Ação-Aventura, Puzzle",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Team Ico",
+      "vendas_aproximadas_milhoes": 0.7
+    },
+    {
+      "titulo": "Persona 4",
+      "ano": 2008,
+      "genero": "RPG",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Atlus",
+      "vendas_aproximadas_milhoes": 2.2
+    },
+    {
+      "titulo": "Dragon Quest VIII: Journey of the Cursed King",
+      "ano": 2004,
+      "genero": "RPG",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Level-5",
+      "vendas_aproximadas_milhoes": 5.4
+    },
+    {
+      "titulo": "Okami",
+      "ano": 2006,
+      "genero": "Ação-Aventura",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Clover Studio",
+      "vendas_aproximadas_milhoes": 0.6
+    },
+    {
+      "titulo": "Bully",
+      "ano": 2006,
+      "genero": "Ação-Aventura, Mundo Aberto",
+      "faixa_etaria": "16+",
+      "desenvolvedora": "Rockstar Vancouver",
+      "vendas_aproximadas_milhoes": 3.5
+    },
+    {
+      "titulo": "Prince of Persia: The Sands of Time",
+      "ano": 2003,
+      "genero": "Ação-Aventura, Plataforma",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Ubisoft Montreal",
+      "vendas_aproximadas_milhoes": 4.4
+    },
+    {
+      "titulo": "SSX 3",
+      "ano": 2003,
+      "genero": "Esportes (Snowboard)",
+      "faixa_etaria": "Livre",
+      "desenvolvedora": "EA Canada",
+      "vendas_aproximadas_milhoes": 2.7
+    },
+    {
+      "titulo": "Onimusha 3: Demon Siege",
+      "ano": 2004,
+      "genero": "Ação-Aventura, Hack and Slash",
+      "faixa_etaria": "16+",
+      "desenvolvedora": "Capcom",
+      "vendas_aproximadas_milhoes": 2.0
+    },
+    {
+      "titulo": "Black",
+      "ano": 2006,
+      "genero": "Tiro em Primeira Pessoa (FPS)",
+      "faixa_etaria": "18+",
+      "desenvolvedora": "Criterion Games",
+      "vendas_aproximadas_milhoes": 3.0
+    },
+    {
+      "titulo": "Champions of Norrath",
+      "ano": 2004,
+      "genero": "RPG de Ação",
+      "faixa_etaria": "12+",
+      "desenvolvedora": "Snowblind Studios",
+      "vendas_aproximadas_milhoes": 1.5
+    }
+  ]
+}
