@@ -9,13 +9,15 @@ if ($ps2g === null) {
     die("Erro ao decodificar JSON: " . json_last_error_msg());
 }
 $games = $ps2g->jogos_ps2;
+
+//esses filtros serão substituídos na versão final pelos valores do formulário
 // -1 = sem limite
 $year_minimum_filter = -1;
 $year_maximum_filter = -1;
-
 $title_filter = "God of";
 $dev_filter = "Santa Monica";
 $genre_filter = "Ação";
+//TODO: filtro para vendas, e filtro de faixa etária.
 
 
 $filtered = array_filter($games, function ($game) use ($year_minimum_filter, $year_maximum_filter, $title_filter, $dev_filter, $genre_filter) {
